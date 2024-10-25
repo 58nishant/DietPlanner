@@ -1,4 +1,5 @@
-#Diet Planner
+Diet Planner
+
 Diet Planner is a personalized web application designed to generate tailored exercise and diet plans based on user preferences and fitness goals. Built with Django, the app collects user details like gender, age, height, dietary preferences, and fitness goals, and outputs a weekly exercise routine and a consistent daily diet plan.
 
 Table of Contents
